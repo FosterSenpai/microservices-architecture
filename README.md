@@ -5,16 +5,10 @@ This repository contains all of my projects related to microservices architectur
 ## Contents
 
 - **Class Projects**
-### Project 1: Implementing a Singly Linked List
-This project involves creating a singly linked list data structure from scratch. 
-The singly linked list will support basic operations such as insertion, deletion, and traversal. 
-The goal of this project is to understand the fundamentals of linked lists and how they can be used to manage collections of data.
-
-### Project 2: Implementing a Doubly Linked List
-This project focuses on implementing a doubly linked list data structure. 
-Unlike the singly linked list, each node in a doubly linked list contains references to both the next and previous nodes. 
-This allows for more efficient bidirectional traversal and manipulation of the list. 
-The project will cover operations such as insertion, deletion, and traversal in both directions.
+### Project 1: Design & Implement an SQL database for a bank.
+The database will store detailed information about customers, including their name, location, age, salary, and contact details. 
+Each customer will have one or more bank accounts, which could be checking, savings, or loan accounts, each with different interest rates. 
+The database will also support an online banking feature where customers can log in to view their transactions and history.
   
 - **Personal Projects**
   - None rn.
