@@ -15,7 +15,6 @@ This project focuses on implementing a doubly linked list data structure.
 Unlike the singly linked list, each node in a doubly linked list contains references to both the next and previous nodes. 
 This allows for more efficient bidirectional traversal and manipulation of the list. 
 The project will cover operations such as insertion, deletion, and traversal in both directions.
-  - ...
   
 - **Personal Projects**
   - None rn.
